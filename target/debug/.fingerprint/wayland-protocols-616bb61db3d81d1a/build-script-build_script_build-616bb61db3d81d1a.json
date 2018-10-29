@@ -1,0 +1,1 @@
+{"rustc":443796734116236010,"features":"[\"client\", \"default\", \"native_lib\", \"unstable_protocols\", \"wayland-client\"]","target":4944179213620976468,"profile":7282077418741342047,"path":6131228497030808906,"deps":[["wayland-scanner v0.20.12","wayland_scanner",6653261781381082046]],"local":[{"Precalculated":"0.20.12"}],"rustflags":[],"edition":"Edition2015"}

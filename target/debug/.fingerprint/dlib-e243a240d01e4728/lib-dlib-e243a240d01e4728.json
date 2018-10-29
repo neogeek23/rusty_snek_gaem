@@ -1,0 +1,1 @@
+{"rustc":443796734116236010,"features":"[\"dlopen\"]","target":16693501533753997218,"profile":14245719688690734572,"path":3169860846614462637,"deps":[["libloading v0.5.0","libloading",728395211582384261]],"local":[{"Precalculated":"0.4.1"}],"rustflags":[],"edition":"Edition2015"}
