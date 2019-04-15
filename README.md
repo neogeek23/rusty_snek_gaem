@@ -3,5 +3,7 @@
 this is a wip version of the snake game in rust
 
 Intructions
-
-`cargo build`
+```
+cargo build
+cargo run
+```
