@@ -1,1 +1,1 @@
-/home/brad/Development/Rust\ Snake/snake_game/target/debug/snake_game: /home/brad/Development/Rust\ Snake/snake_game/src/main.rs
+/home/brad/Development/rusty_snek_gaem/target/debug/snake_game: /home/brad/Development/rusty_snek_gaem/src/main.rs

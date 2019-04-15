@@ -1,0 +1,12 @@
+/home/brad/Development/rusty_snek_gaem/target/debug/deps/libwayland_scanner-1c3b80e0b9da5ecf.rlib: /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/lib.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/c_code_gen.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/c_interface_gen.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/common_gen.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/parse.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/protocol.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/side.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/util.rs
+
+/home/brad/Development/rusty_snek_gaem/target/debug/deps/wayland_scanner-1c3b80e0b9da5ecf.d: /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/lib.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/c_code_gen.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/c_interface_gen.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/common_gen.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/parse.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/protocol.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/side.rs /home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/util.rs
+
+/home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/lib.rs:
+/home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/c_code_gen.rs:
+/home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/c_interface_gen.rs:
+/home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/common_gen.rs:
+/home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/parse.rs:
+/home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/protocol.rs:
+/home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/side.rs:
+/home/brad/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-scanner-0.20.12/src/util.rs:
